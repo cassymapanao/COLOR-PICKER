@@ -1,1 +1,1 @@
-https://github.com/cassymapanao/COLOR-PICKER.git
+https://github.com/cassymapanao/COLOR-PICKER
